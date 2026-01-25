@@ -104,7 +104,6 @@ Feature importance is visualized to highlight the most impactful predictors.
 
 ## ✅ Conclusion
 
-This project demonstrates a **practical** and **interpretable** approach to loan default prediction using logistic regression. 
+This project follows a **practical** and **interpretable** approach to loan default prediction. It demonstrates **professional** credit risk modeling through comprehensive EDA, appropriate evaluation metrics, decision threshold optimization, and cost-sensitive analysis. The notebook provides a strong foundation for further model development.
 
-By combining rigorous EDA, thoughtful evaluation metrics, decision threshold tuning, and cost-sensitive analysis, the notebook reflects industry-standard credit risk modeling and provides a strong foundation for further model development.
 
